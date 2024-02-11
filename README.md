@@ -60,6 +60,7 @@ If you have questions or concerns, feel free to connect with a developer or comm
 | [perp][code-x-perp] | Powers the Nibi-Perps exchange. This module enables traders to open long and short leveraged positions and houses all of the PnL calculation and liquidation logic. |
 | [spot][code-x-spot] | Responsible for creating, joining, and exiting liquidity pools. It also allows users to swap between two assets in an existing pool. It's a fully functional AMM. |
 
+[code-x-wasm]: https://nibiru.fi/docs/dev/x/Nibiru-Chain/wasm.html
 [code-x-common]: https://github.com/NibiruChain/nibiru/tree/main/x/common
 [code-x-devgas]: https://nibiru.fi/docs/dev/x/nibiru-chain/devgas.html
 [code-x-epochs]: https://github.com/NibiruChain/nibiru/tree/main/x/epochs
